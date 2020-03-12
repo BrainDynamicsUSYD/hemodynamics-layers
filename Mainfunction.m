@@ -2,7 +2,7 @@ function Mainfunction
 fig6 = figure;
 set(fig6,'units','normalized','outerposition',[0 0 1 1]);
 hold on
-Fnum = 9;
+Fnum = 1;
 % mags = [];
 % maxes = [];
 %for v_wave = [0]
