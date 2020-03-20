@@ -9,7 +9,7 @@ Add the repository to your MATLAB path and run Mainfunction.m. This will automat
 
 If you use our code in your research, please cite us as follows:
 
-T.C. Lacy, P.A. Robinson, K.M. Aquino, and J.C. Pang, Cortical depth-dependent modeling of visual hemodynamic responses, bioRxiv (2020) (DOI: xx)
+T.C. Lacy, P.A. Robinson, K.M. Aquino, and J.C. Pang, Cortical depth-dependent modeling of visual hemodynamic responses, bioRxiv (2020) (DOI: https://doi.org/10.1101/2020.03.16.993154)
 
 # Further details
 
